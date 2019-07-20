@@ -1,0 +1,19 @@
+var goods = [
+	{name: "Яблоки",
+	picture: "https://cdn.shopify.com/s/files/1/2331/3573/products/Fresh-Royal-Gala-Apples-from-france_267873c2-d117-42b3-babf-c740ab2ddcb7.jpg?v=1506746289",
+	cost: 10,
+	count: 23,
+	identity: "apple"},
+
+	{name: "Яблоки",
+	picture: "https://cdn.shopify.com/s/files/1/2331/3573/products/Fresh-Royal-Gala-Apples-from-france_267873c2-d117-42b3-babf-c740ab2ddcb7.jpg?v=1506746289",
+	cost: 10,
+	count: 23,
+	identity: "apple"},
+
+	{name: "Яблоки",
+	picture: "https://cdn.shopify.com/s/files/1/2331/3573/products/Fresh-Royal-Gala-Apples-from-france_267873c2-d117-42b3-babf-c740ab2ddcb7.jpg?v=1506746289",
+	cost: 10,
+	count: 23,
+	identity: "apple"}
+]
